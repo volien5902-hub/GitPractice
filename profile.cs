@@ -1,0 +1,1 @@
+Console.WriteLine("Mô phỏng chức năng Profile");
